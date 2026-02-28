@@ -23,14 +23,20 @@
 Home Page:  
 ![Home](home.jpg)
 
-Products Section:  
-![Products](aboutus.jpg)
+About Us Section:  
+![About Us](aboutus.jpg)
 
-Reviews Section:  
-![Reviews](images/screenshot-reviews.png)
+Products Section:  
+![Products](products.jpg)
+
+Review Section:
+![Review](review.jpg)
 
 Contact Section:  
-![Contact](images/screenshot-contact.png)
+![Contact](contact.jpg)
+
+Footer Section:
+![Footer](footer.jpg)
 
 > Sigurohu që të shtosh screenshot-et reale nga faqja jote nën folderin `/images`.
 
