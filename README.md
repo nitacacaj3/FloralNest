@@ -38,7 +38,6 @@ Contact Section:
 Footer Section:
 ![Footer](footer.jpg)
 
-> Sigurohu që të shtosh screenshot-et reale nga faqja jote nën folderin `/images`.
 
 ---
 
@@ -47,22 +46,14 @@ Footer Section:
 1. Klono këtë repository:
    ```bash
    git clone https://github.com/username/floral-nest.git
-CSS3
 
-Font Awesome Icons
 
-Responsive Web Design (media queries)
-
-Usage
+## Usage
 
 Shfletuesi mund të përdoret direkt pa server.
 
 Për më shumë interaktivitet mund të shtohet JavaScript në të ardhmen.
 
-Contributing
+## Contributing
 
-Kontributet janë të mirëpritura! Ju mund të propozonit dizajn, produkte të reja, ose përmirësime të CSS. Krijoni një branch të ri dhe bëni pull request.
-
-License
-
-Ky projekt është nën licencën MIT. Shihni LICENSE për detaje.
+Kontributet janë të mirëpritura! Ju mund të propozoni dizajn, produkte të reja, ose përmirësime të CSS. 
