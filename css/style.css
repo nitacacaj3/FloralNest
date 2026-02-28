@@ -171,12 +171,18 @@ header .fa-bars{
     width: 100%;
     border: 1.5rem solid #fff;
     border-radius: .5rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0, .1);
+
     height: 40rem
     ;
     object-fit: cover;
+    
+    box-shadow: 0 0 15px rgba(232, 67, 147, 0.3); /* hije pink statike gjithmonë */
 }
 
+
+.about .row:hover .video-container video {
+  box-shadow: 0 0 30px rgba(232, 67, 147, 0.35);
+}
 .about .row .video-container h3{
 
     position: absolute;
