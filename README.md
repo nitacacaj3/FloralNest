@@ -2,18 +2,7 @@
 
 **Floral Nest** është një faqe web për tregtinë online të luleve dhe buqetave. Projekti ofron dizajn modern, vizualizim të bukur të produkteve, dhe seksione të organizuara si Home, About, Products, Reviews dhe Contact.
 
----
 
-## Table of Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ---
 
@@ -32,10 +21,10 @@
 ## Screenshots
 
 Home Page:  
-![Home](images/screenshot-home.png)
+![Home](home.jpg)
 
 Products Section:  
-![Products](images/screenshot-products.png)
+![Products](aboutus.jpg)
 
 Reviews Section:  
 ![Reviews](images/screenshot-reviews.png)
