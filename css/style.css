@@ -120,10 +120,11 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(../images/gemini1.png) no-repeat;
+    background:url(../images/gemini1.png)  no-repeat center center;
     background-size: cover;
-    background-position: center;
-    background-size: contain;
+    
+    justify-content: flex-start; /* qendër horizontale */
+    
 }
 
 
@@ -529,7 +530,12 @@ header .fa-bars{
     }
 
     .home{
-        background-position: left;
+         flex-direction: column;
+        justify-content: center; /* e mban në mes vertikalisht */
+        align-items: center;     /* e mban në mes horizontalisht */
+        min-height: 100vh;       /* mos e ul në 80vh nëse nuk don me u ngjit lart */
+        background-position: top;
+        text-align: center;
     }
 }
 
@@ -581,6 +587,10 @@ header .fa-bars{
 
 
 @media(max-width: 450px){
+    .home{
+        background-size: contain;
+    }
+    
     html{
         font-size: 50%;
     }
